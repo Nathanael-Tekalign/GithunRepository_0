@@ -8,3 +8,8 @@ let myVariableString_0 = myVariableInteger_0.toString();
 let favoriteThing = prompt("What is your favorite thing?");
 console.log('myVariableString_0:', myVariableString_0);
 console.log('favoriteThing:', favoriteThing);
+for (let i = 0; i < 5; i++) {
+  if (i % 2 !== 0) {
+  console.log(i);
+  }
+}
