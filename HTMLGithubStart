@@ -12,5 +12,6 @@ Purpose: this program will be uploded to Github
 </head>
 <body>
 <p>Welcome to my Github Repository</p>
+<script src="TesterFile.js"></script>
 </body>
 </html>
